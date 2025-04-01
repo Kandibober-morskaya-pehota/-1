@@ -1,0 +1,3 @@
+c:\users\student\documents\visual studio 2010\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\x86\Debug\WindowsFormsApplication9.Form1.resources
+c:\users\student\documents\visual studio 2010\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\x86\Debug\WindowsFormsApplication7.Properties.Resources.resources
+c:\users\student\documents\visual studio 2010\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\x86\Debug\WindowsFormsApplication7.csproj.GenerateResource.Cache
